@@ -35,7 +35,7 @@ particlesJS('particles-js',
           "nb_sides": 6
         },
         "image": {
-          "src": "https://github.com/karanurao/Particles/blob/a32e4ef0a2105fd1fac10339d842a9ac273c87d3/object.png",
+          "src": "object.png",
           "width": 100,
           "height": 100
         }
